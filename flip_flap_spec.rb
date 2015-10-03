@@ -14,6 +14,6 @@ describe 'Serializer specs' do
   end
 
   after do
-    #`rm data/test.* > /dev/null 2>&1`
+    `rm data/test.* > /dev/null 2>&1`
   end
 end
